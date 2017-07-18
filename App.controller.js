@@ -3,7 +3,9 @@ sap.ui.define([
                "sap/ui/model/json/JSONModel"
 
                ], function (Controller,onlySON) {
-Making changes to master. no more branch.
+
+Making changes to master. no more branch included.
+
 	"use strict";
 	return Controller.extend("sap.ui.demo.roll.controller.App", {
 
