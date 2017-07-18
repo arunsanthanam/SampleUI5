@@ -4,7 +4,7 @@ sap.ui.define([
 
                ], function (Controller,onlySON) {
 
-Making changes to master. no more branch included.
+Making changes to forcing client changes.
 
 	"use strict";
 	return Controller.extend("sap.ui.demo.roll.controller.App", {
