@@ -1,7 +1,7 @@
 sap.ui.define([
                "sap/ui/core/mvc/Controller",
                "sap/ui/model/json/JSONModel"
-               ], function (Controller,JSONModel) {
+               ], function (Controller,jSONModel) {
 	"use strict";
 	return Controller.extend("sap.ui.demo.roll.controller.App", {
 
